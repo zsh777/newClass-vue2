@@ -1,0 +1,19 @@
+body,html,#app,.home,.el-container{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+.router-link-active {
+  text-decoration: none;
+}
+.el-tree-node__content{
+  height: 45px !important;
+}
